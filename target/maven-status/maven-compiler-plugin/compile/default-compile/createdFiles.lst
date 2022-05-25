@@ -1,0 +1,14 @@
+co\edu\javeriana\as\configuration\DataSourceConfigurer.class
+co\edu\javeriana\as\configuration\LoadData.class
+co\edu\javeriana\as\exceptions\EdificioNotFoundException.class
+co\edu\javeriana\as\repository\EspaciosRepository.class
+co\edu\javeriana\as\model\Historial.class
+co\edu\javeriana\as\PerfilespaciosApplication.class
+co\edu\javeriana\as\rest\EspaciosController.class
+co\edu\javeriana\as\model\Espacio.class
+co\edu\javeriana\as\repository\EdificiosRepository.class
+co\edu\javeriana\as\services\EspaciosService.class
+co\edu\javeriana\as\exceptions\EspacioNotFoundException.class
+co\edu\javeriana\as\repository\HistorialRepository.class
+co\edu\javeriana\as\model\Edificio.class
+co\edu\javeriana\as\services\impl\EspaciosServiceImpl.class

@@ -1,0 +1,14 @@
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\repository\EspaciosRepository.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\exceptions\EdificioNotFoundException.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\configuration\LoadData.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\model\Edificio.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\PerfilespaciosApplication.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\rest\EspaciosController.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\services\impl\EspaciosServiceImpl.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\repository\HistorialRepository.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\repository\EdificiosRepository.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\exceptions\EspacioNotFoundException.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\model\Espacio.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\model\Historial.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\services\EspaciosService.java
+D:\Perfil-de-espacios\src\main\java\co\edu\javeriana\as\configuration\DataSourceConfigurer.java
